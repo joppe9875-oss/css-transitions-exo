@@ -1,3 +1,11 @@
+section{
+    border-bottom: 1px solid black;
+    padding-bottom: 50px;
+}
+
+section > #les_transition_10{
+    border-bottom:none;
+}
 
 /* début exo 01 les_hover_01 */
 
